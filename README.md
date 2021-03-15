@@ -1,4 +1,5 @@
 # askeroids
+Project made by DiogoValdrez.
 
 Work in progress, don't judge.
 
